@@ -1,0 +1,15 @@
+body{
+    padding-top: 70px;
+}
+
+.focused-link{
+     font-size: 20px;
+     color: forestgreen;
+
+ }
+
+.not-focused-link{
+    font-size: 18px;
+    color: black;
+
+}
