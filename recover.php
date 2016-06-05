@@ -10,7 +10,7 @@
             <div class="panel-body">
                 <h2 class="text-center">Recover Password</h2>
                 <hr>
-                <form action="" method="post" role="form" autocomplete="off">
+                <form action="" method="post" role="form" autocomplete="on">
                     <div class="form-group">
                         <label>Email Address</label>
                         <input type="text" name="email" class="form-control" required>
